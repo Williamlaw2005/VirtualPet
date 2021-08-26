@@ -7,8 +7,6 @@ void setup()
 void draw()
 {
   
-  System.out.print(mouseX + ",");
-  System.out.println(mouseY);
   //body
    fill(150,75,0);
   ellipse(400,700,420,460);
